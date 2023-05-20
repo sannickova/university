@@ -1,1 +1,1 @@
-# university
+# academy
